@@ -3,7 +3,7 @@
  */
 
 var myHeading = document.querySelector('h1');
-myHeading.textContent = 'Hello world!';
+myHeading.textContent = 'Hola mundo!';
 
 var myImage = document.querySelector('img');
 
